@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 jobs:
-  build-deploy:
+  sync:
     runs-on: ubuntu-latest
     steps:
       - name: Timestamp Begin
