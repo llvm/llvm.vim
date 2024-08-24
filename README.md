@@ -14,3 +14,10 @@ mkdir -p ~/.vim/pack/llvm/start
 cd ~/.vim/pack/llvm/start
 git clone https://github.com/llvm/llvm.vim.git
 ```
+
+## Contributing
+
+If you would like to improve these syntax files, please submit a pull
+request to the upstream
+[`llvm/llvm-project`](https://github.com/llvm/llvm-project) repo. The
+changes are synced to this repository daily.
